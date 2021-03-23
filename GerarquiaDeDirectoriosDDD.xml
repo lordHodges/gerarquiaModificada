@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tree>
+  <directory name="Proyectos/finanzas/gerarquiaModificada">
+    <directory name="core">
+      <directory name="infraestructure">
+        <directory name="config">
+        </directory>
+        <directory name="orm">
+        </directory>
+        <directory name="security">
+        </directory>
+        <directory name="webServer">
+        </directory>
+      </directory>
+      <directory name="src">
+        <directory name="apps">
+          <directory name="backoffice">
+          </directory>
+          <directory name="registros">
+          </directory>
+        </directory>
+        <directory name="contexts">
+          <directory name="backoffice">
+          </directory>
+          <directory name="registros">
+            <directory name="agrofirma">
+              <directory name="aplication">
+                <directory name="security">
+                </directory>
+                <directory name="useCase">
+                </directory>
+              </directory>
+              <directory name="dal">
+                <file name="x.dalModel.js"></file>
+                <file name="x.dalRepository.js"></file>
+              </directory>
+              <directory name="domain">
+                <file name="x.domainModel.js"></file>
+                <file name="x.domainRepository.js"></file>
+                <file name="x.domainService.js"></file>
+              </directory>
+              <directory name="interface">
+                <directory name="controllers">
+                </directory>
+                <directory name="routes">
+                </directory>
+                <directory name="services">
+                </directory>
+              </directory>
+            </directory>
+            <directory name="empresa">
+              <directory name="aplication">
+                <directory name="security">
+                </directory>
+                <directory name="useCase">
+                </directory>
+              </directory>
+              <directory name="dal">
+                <file name="x.dalModel.js"></file>
+                <file name="x.dalRepository.js"></file>
+              </directory>
+              <directory name="domain">
+                <file name="x.domainModel.js"></file>
+                <file name="x.domainRepository.js"></file>
+                <file name="x.domainService.js"></file>
+              </directory>
+              <directory name="interface">
+                <directory name="controllers">
+                </directory>
+                <directory name="routes">
+                </directory>
+                <directory name="services">
+                </directory>
+              </directory>
+            </directory>
+            <directory name="firma_abogados">
+              <directory name="aplication">
+                <directory name="security">
+                </directory>
+                <directory name="useCase">
+                </directory>
+              </directory>
+              <directory name="dal">
+                <file name="x.dalModel.js"></file>
+                <file name="x.dalRepository.js"></file>
+              </directory>
+              <directory name="domain">
+                <file name="x.domainModel.js"></file>
+                <file name="x.domainRepository.js"></file>
+                <file name="x.domainService.js"></file>
+              </directory>
+              <directory name="interface">
+                <directory name="controllers">
+                </directory>
+                <directory name="routes">
+                </directory>
+                <directory name="services">
+                </directory>
+              </directory>
+            </directory>
+            <directory name="hostal">
+              <directory name="aplication">
+                <directory name="security">
+                </directory>
+                <directory name="useCase">
+                </directory>
+              </directory>
+              <directory name="dal">
+                <file name="x.dalModel.js"></file>
+                <file name="x.dalRepository.js"></file>
+              </directory>
+              <directory name="domain">
+                <file name="x.domainModel.js"></file>
+                <file name="x.domainRepository.js"></file>
+                <file name="x.domainService.js"></file>
+              </directory>
+              <directory name="interface">
+                <directory name="controllers">
+                </directory>
+                <directory name="routes">
+                </directory>
+                <directory name="services">
+                </directory>
+              </directory>
+            </directory>
+            <directory name="inmobiliaria">
+              <directory name="aplication">
+                <directory name="security">
+                </directory>
+                <directory name="useCase">
+                </directory>
+              </directory>
+              <directory name="dal">
+                <file name="x.dalModel.js"></file>
+                <file name="x.dalRepository.js"></file>
+              </directory>
+              <directory name="domain">
+                <file name="x.domainModel.js"></file>
+                <file name="x.domainRepository.js"></file>
+                <file name="x.domainService.js"></file>
+              </directory>
+              <directory name="interface">
+                <directory name="controllers">
+                </directory>
+                <directory name="routes">
+                </directory>
+                <directory name="services">
+                </directory>
+              </directory>
+            </directory>
+            <directory name="lubricentro">
+              <directory name="aplication">
+                <directory name="security">
+                </directory>
+                <directory name="useCase">
+                </directory>
+              </directory>
+              <directory name="dal">
+                <file name="x.dalModel.js"></file>
+                <file name="x.dalRepository.js"></file>
+              </directory>
+              <directory name="domain">
+                <file name="x.domainModel.js"></file>
+                <file name="x.domainRepository.js"></file>
+                <file name="x.domainService.js"></file>
+              </directory>
+              <directory name="interface">
+                <directory name="controllers">
+                </directory>
+                <directory name="routes">
+                </directory>
+                <directory name="services">
+                </directory>
+              </directory>
+            </directory>
+            <directory name="rentacar">
+              <directory name="aplication">
+                <directory name="security">
+                </directory>
+                <directory name="useCase">
+                </directory>
+              </directory>
+              <directory name="dal">
+                <file name="x.dalModel.js"></file>
+                <file name="x.dalRepository.js"></file>
+              </directory>
+              <directory name="domain">
+                <file name="x.domainModel.js"></file>
+                <file name="x.domainRepository.js"></file>
+                <file name="x.domainService.js"></file>
+              </directory>
+              <directory name="interface">
+                <directory name="controllers">
+                </directory>
+                <directory name="routes">
+                </directory>
+                <directory name="services">
+                </directory>
+              </directory>
+            </directory>
+            <directory name="rol">
+              <directory name="aplication">
+                <directory name="security">
+                </directory>
+                <directory name="useCase">
+                </directory>
+              </directory>
+              <directory name="dal">
+                <file name="x.dalModel.js"></file>
+                <file name="x.dalRepository.js"></file>
+              </directory>
+              <directory name="domain">
+                <file name="x.domainModel.js"></file>
+                <file name="x.domainRepository.js"></file>
+                <file name="x.domainService.js"></file>
+              </directory>
+              <directory name="interface">
+                <directory name="controllers">
+                </directory>
+                <directory name="routes">
+                </directory>
+                <directory name="services">
+                </directory>
+              </directory>
+            </directory>
+            <directory name="shared">
+              <directory name="banco">
+                <directory name="aplication">
+                  <directory name="security">
+                  </directory>
+                  <directory name="useCase">
+                  </directory>
+                </directory>
+                <directory name="dal">
+                  <file name="x.dalModel.js"></file>
+                  <file name="x.dalRepository.js"></file>
+                </directory>
+                <directory name="domain">
+                  <file name="x.domainModel.js"></file>
+                  <file name="x.domainRepository.js"></file>
+                  <file name="x.domainService.js"></file>
+                </directory>
+                <directory name="interface">
+                  <directory name="controllers">
+                  </directory>
+                  <directory name="routes">
+                  </directory>
+                  <directory name="services">
+                  </directory>
+                </directory>
+              </directory>
+              <directory name="cliente">
+                <directory name="aplication">
+                  <directory name="security">
+                  </directory>
+                  <directory name="useCase">
+                  </directory>
+                </directory>
+                <directory name="dal">
+                  <file name="x.dalModel.js"></file>
+                  <file name="x.dalRepository.js"></file>
+                </directory>
+                <directory name="domain">
+                  <file name="x.domainModel.js"></file>
+                  <file name="x.domainRepository.js"></file>
+                  <file name="x.domainService.js"></file>
+                </directory>
+                <directory name="interface">
+                  <directory name="controllers">
+                  </directory>
+                  <directory name="routes">
+                  </directory>
+                  <directory name="services">
+                  </directory>
+                </directory>
+              </directory>
+            </directory>
+            <directory name="sucursal">
+              <directory name="aplication">
+                <directory name="security">
+                </directory>
+                <directory name="useCase">
+                </directory>
+              </directory>
+              <directory name="dal">
+                <file name="x.dalModel.js"></file>
+                <file name="x.dalRepository.js"></file>
+              </directory>
+              <directory name="domain">
+                <file name="x.domainModel.js"></file>
+                <file name="x.domainRepository.js"></file>
+                <file name="x.domainService.js"></file>
+              </directory>
+              <directory name="interface">
+                <directory name="controllers">
+                </directory>
+                <directory name="routes">
+                </directory>
+                <directory name="services">
+                </directory>
+              </directory>
+            </directory>
+            <directory name="usuario">
+              <directory name="aplication">
+                <directory name="security">
+                </directory>
+                <directory name="useCase">
+                </directory>
+              </directory>
+              <directory name="dal">
+                <file name="x.dalModel.js"></file>
+                <file name="x.dalRepository.js"></file>
+              </directory>
+              <directory name="domain">
+                <file name="x.domainModel.js"></file>
+                <file name="x.domainRepository.js"></file>
+                <file name="x.domainService.js"></file>
+              </directory>
+              <directory name="interface">
+                <directory name="controllers">
+                </directory>
+                <directory name="routes">
+                </directory>
+                <directory name="services">
+                </directory>
+              </directory>
+            </directory>
+          </directory>
+        </directory>
+      </directory>
+    </directory>
+  </directory>
+  <report>
+    <directories>134</directories>
+    <files>60</files>
+  </report>
+</tree>
